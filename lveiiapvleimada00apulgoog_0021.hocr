@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lveiiapvleimada00apulgoog_0021.png"; bbox 0 0 3125 4617; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 159 1973 1215 2323">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 159 1973 1215 2323">
+     <span class='ocr_line' id='line_1_1' title="bbox 379 1973 1094 2073; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 379 1976 424 2073; x_wconf 78' lang='lat' dir='ltr'>L.</span> <span class='ocrx_word' id='word_1_2' title='bbox 456 1974 667 2073; x_wconf 76' lang='lat' dir='ltr'><strong>APVLEI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 698 1973 1094 2073; x_wconf 70' lang='lat' dir='ltr'>MADAVRENsls</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 159 2175 1215 2323; baseline -0.003 -1"><span class='ocrx_word' id='word_1_4' title='bbox 159 2216 160 2287; x_wconf 43' lang='grc' dir='ltr'><strong>ὲ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 257 2222 537 2323; x_wconf 67' lang='lat' dir='ltr'><strong>APoLofflA</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 566 2221 696 2321; x_wconf 58' lang='lat' dir='ltr'>slva</span> <span class='ocrx_word' id='word_1_7' title='bbox 729 2222 803 2321; x_wconf 74' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_8' title='bbox 833 2175 1019 2323; x_wconf 60' lang='lat' dir='ltr'>mam</span> <span class='ocrx_word' id='word_1_9' title='bbox 1047 2222 1215 2321; x_wconf 73' lang='lat' dir='ltr'>LIBER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1568 4617">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1568 4617">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1568 4617; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1568 4617; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
